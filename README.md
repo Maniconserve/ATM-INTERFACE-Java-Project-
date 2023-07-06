@@ -9,11 +9,7 @@ Developed Java Swing ATM interface with PIN validation, withdrawal, deposit, bal
 
 
 
-
-
 ![p3](https://github.com/Maniconserve/ATM-INTERFACE-Java-Project-/assets/137669778/2d00a79d-b6f5-4958-9bf2-1f6c92afac20)
-
-
 
 
 
@@ -21,10 +17,15 @@ Developed Java Swing ATM interface with PIN validation, withdrawal, deposit, bal
 ![p4](https://github.com/Maniconserve/ATM-INTERFACE-Java-Project-/assets/137669778/80e6da1b-a315-4f44-8841-289e215e86a0)
 
 
+![p5](https://github.com/Maniconserve/ATM-INTERFACE-Java-Project-/assets/137669778/816e6c72-3824-4aff-af01-73d5d1c16575)
 
 
 
-    ![p5](https://github.com/Maniconserve/ATM-INTERFACE-Java-Project-/assets/137669778/80ebb83e-dad9-4fc7-9642-9a686f0b77e5)
+ 
+
+
+
+
 
 
 
